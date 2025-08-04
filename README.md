@@ -16,6 +16,19 @@ The dashboard was built with a focus on clarity, interactivity, and data storyte
 
 ---
 
+## 📁 Repository Contents
+
+| File/Folder Name            | Description                                                    |
+|----------------------------|-----------------------------------------------------------------|
+| `imdb_top_1000.csv`         | Raw dataset from Kaggle used for analysis                      |
+| `Movie Analysis.twbx`       | Tableau packaged workbook with all dashboards & visuals        |
+| `Dashboard Tableau.pdf`     | Static PDF snapshot of the dashboard layout                    |
+| `Movie Revenue Analysis PDF.pdf` | In-depth written analysis and explanation of the dashboard|
+| `Movie_Revenue_Tracker_PPT.pptx` | Project presentation for walkthrough & explanation        |
+| `README.md`                 | Overview and documentation of the entire project               |
+
+---
+
 ## 📊 Features
 
 - 📈 **Genre-wise Revenue Analysis**  
