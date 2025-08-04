@@ -12,7 +12,7 @@ The dashboard was built with a focus on clarity, interactivity, and data storyte
 
 ---
 
-🔗 Live Dashboard: View the fully interactive version on Tableau Public - 
+🔗 Live Dashboard: View the fully interactive version on Tableau Public - https://public.tableau.com/views/MovieAnalysis_17538232887850/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
